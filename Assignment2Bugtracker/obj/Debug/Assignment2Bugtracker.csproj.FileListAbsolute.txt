@@ -1,0 +1,2 @@
+C:\Users\SD11\source\repos\Assignment2Bugtracker\Assignment2Bugtracker\obj\Debug\Assignment2Bugtracker.csprojAssemblyReference.cache
+C:\Users\SD11\source\repos\Assignment2Bugtracker\Assignment2Bugtracker\obj\Debug\Assignment2Bugtracker.csproj.CoreCompileInputs.cache
